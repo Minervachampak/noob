@@ -1,0 +1,5 @@
+print "Hello world!!"
+print "hi how re you ?"
+print "yup I am good"
+print "it makes no sense"
+print"what about that"
